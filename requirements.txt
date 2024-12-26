@@ -1,0 +1,4 @@
+spacy
+textblob
+beautifulsoup4
+nltk
