@@ -1,6 +1,6 @@
-# text_process
+# text_preprocess
 
-`text_process` is a Python package designed to simplify text preprocessing and cleaning tasks, essential for building robust Natural Language Processing (NLP) algorithms.
+`text_preprocess` is a Python package designed to simplify text preprocessing and cleaning tasks, essential for building robust Natural Language Processing (NLP) algorithms.
 ---
 
 ## Features
@@ -11,14 +11,14 @@
 - **Customizable Cleaning Pipeline**: Apply a sequence of preprocessing steps as per your requirements.
 ---
 ## Installation
-You can install the `text_process` package directly from GitHub:
+You can install the `text_preprocess` package directly from GitHub:
 
 ```bash
 !pip install git+https://github.com/Onome-Joseph/text-preprocess.git
 ```
 ---
 ## Applications
-The `text_process` package is ideal for:
+The `text_preprocess` package is ideal for:
 - Preprocessing text data for NLP tasks like sentiment analysis, text classification, and topic modeling.
 - Cleaning large text datasets before feeding them into machine learning or deep learning models.
 - Building end-to-end NLP pipelines with a focus on efficiency and modularity.
